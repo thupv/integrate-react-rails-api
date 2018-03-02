@@ -1,24 +1,21 @@
-# README
+# Integrate react, rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+what includes:
 
-Things you may want to cover:
+BE
+- Rails
+- devise_token_auth
+- devise
 
-* Ruby version
 
-* System dependencies
+FE
+- React
+- j-toker
+- mdbreact
 
-* Configuration
 
-* Database creation
+Start: 
 
-* Database initialization
+`foreman start`
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
